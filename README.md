@@ -1,2 +1,4 @@
 # ST-GameStudio
-This repo is for games/ creators St-2025
+
+
+Later we will add all the coments to start the snake game.
